@@ -1,4 +1,4 @@
-### **Useful links:**
+### **Links:**
 
 [Баг-репорты](https://semenov-dimitry004.youtrack.cloud/tag/Sprint%203-5);
 
